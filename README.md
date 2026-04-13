@@ -135,7 +135,7 @@ These Terms may be updated at any time.
 
 📬 11. Contact
 
-- 📧 Email: consolepvt@gmail.com
+- 📧 Email: fluxmusicdc@outlook.com
 - 💬 Discord Server: https://discord.gg/yd2xHKw5ZB
 
 ---
