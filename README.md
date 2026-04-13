@@ -5,28 +5,11 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![Node.js](https://img.shields.io/badge/runtime-node.js-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/license-custom-lightgrey)
-![Discord](https://img.shields.io/badge/support-discord-5865F2?logo=discord&logoColor=white)
+[![License](https://img.shields.io/badge/license-custom-lightgrey)](https://github.com/flux-music/flux-music-license)
+[![Discord](https://img.shields.io/badge/support-discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/yd2xHKw5ZB)
 
 «Last Updated: April 13, 2026  
 Developer: zz.kaze»
-
----
-
-📑 Table of Contents
-
-- [1. Introduction](#1-introduction)
-- [2. Service Overview](#2-service-overview)
-- [3. Eligibility & Compliance](#3-eligibility--compliance)
-- [4. Acceptable Use Policy](#4-acceptable-use-policy)
-- [5. Data Usage & Storage](#5-data-usage--storage)
-- [6. Premium & Paid Features](#6-premium--paid-features)
-- [7. Service Availability](#7-service-availability)
-- [8. Enforcement & Termination](#8-enforcement--termination)
-- [9. Limitation of Liability](#9-limitation-of-liability)
-- [10. Changes to Terms](#10-changes-to-terms)
-- [11. Contact](#11-contact)
-- [12. Acknowledgement](#12-acknowledgement)
 
 ---
 
