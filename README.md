@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-custom-lightgrey)](https://github.com/flux-music/flux-music-license)
 [![Discord](https://img.shields.io/badge/support-discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/yd2xHKw5ZB)
 
-Last Updated: April 13, 2026  
+Last Updated: April 14, 2026  
 Developer: zz.kaze
 
 ---
